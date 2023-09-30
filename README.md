@@ -84,7 +84,7 @@ qb-smallresources
 		["rum"] = math.random(20, 40),
 	}
 
-```# **qb-core/shared/jobs.lua**
+ ```**qb-core/shared/jobs.lua**
    ['tequilala'] = {
 		label = 'Tequila-La-La',
 		defaultDuty = true,
