@@ -48,7 +48,8 @@ qb-smallresources
 	['apple'] 		            = {['name'] = 'apple', 			        	['label'] = 'Apple', 	                ['weight'] = 100, 		['type'] = 'item', 		['image'] = 'apple.png', 	            	['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,	['combinable'] = nil,   ['description'] = 'Apple!'},
     ['orange'] 		            = {['name'] = 'orange', 			        ['label'] = 'Orange', 	                ['weight'] = 100, 		['type'] = 'item', 		['image'] = 'orange.png', 	            	['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,	['combinable'] = nil,   ['description'] = 'Orange!'},
   ["daquiri"] 				        = {["name"] = "daquiri", 				["label"] = "Daquiri", 			 		 ["weight"] = 50, 	["type"] = "item", 	["image"] = "irishpub_daquiri.png", 				["unique"] = false,   	["useable"] = true,    ["shouldClose"] = false,    ["combinable"] = nil,   ["description"] = ""},
-```# **qb-smallresources/config.lua**
+```
+# **qb-smallresources/config.lua**
 	ConsumeablesDrink = {
 	    ["appledrink"] = math.random(20, 40),
 	    ["bananadrink"] = math.random(20, 40),
@@ -83,7 +84,7 @@ qb-smallresources
 		["rum"] = math.random(20, 40),
 	}
 
-# **qb-core/shared/jobs.lua**
+```# **qb-core/shared/jobs.lua**
    ['tequilala'] = {
 		label = 'Tequila-La-La',
 		defaultDuty = true,
@@ -114,3 +115,4 @@ qb-smallresources
             },
         },
 	},
+```
