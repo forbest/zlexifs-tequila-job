@@ -1,6 +1,6 @@
 ## Zlexif's Tequila-La-La Job.
 join **[Discord] https://discord.gg/XAV4AfgQaZ** | For Support!
-
+# CREDITS TO Ranjit-Develops. I TOOK HIS CODE AND EDITED EVENTS AND FOOD. ALL CREDITS TO HIM FOR CREATING THE ACTUAL CODE JOIN HIS DISCORD : https://discord.gg/rnnXxuaU
 # Required
 qb-core
 qb-management
