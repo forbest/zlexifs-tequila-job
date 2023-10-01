@@ -14,7 +14,8 @@ join **[Discord] https://discord.gg/XAV4AfgQaZ** | For Support!
 
 # INSTALATION PROCESS :
 **qb-core/shared/items.lua**
-```-- Tequila-La
+```
+-- Tequila-La
 -- Non-Alcoholic 
 ["appledrink"] = {["name"] = "appledrink", ["label"] = "Apple Drink", ["weight"] = 125, ["type"] = "item", ["image"] = "appledrink.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "An Apple Drink."}, 
 ["bananadrink"] = {["name"] = "bananadrink", ["label"] = "Banana Drink", ["weight"] = 125, ["type"] = "item", ["image"] = "bananadrink.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "A Banana Drink."}, 
@@ -84,7 +85,8 @@ join **[Discord] https://discord.gg/XAV4AfgQaZ** | For Support!
 		["rum"] = math.random(20, 40),
 	}
 
- ```**qb-core/shared/jobs.lua**
+**qb-core/shared/jobs.lua**
+```
    ['tequilala'] = {
 		label = 'Tequila-La-La',
 		defaultDuty = true,
