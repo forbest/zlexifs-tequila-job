@@ -1,6 +1,6 @@
 fx_version 'cerulean'
-author 'marcinhu#0001'
-Description 'Ranjit-irishpub'
+author '# Ahmad'
+Description 'Code by ranjit. Configured into tequila job by # Ahmad.'
 game 'gta5'
 
 shared_scripts { 
