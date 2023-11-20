@@ -90,8 +90,8 @@ qb-smallresources
 		offDutyPay = false,
 		grades = {
             ['0'] = {
-                name = 'Runner', - NAME OF THE GRADE
-                payment = 650 -- PAYMENT FOR THIS GRADE ( EVERY 30 MINS OR ACCORDING TO YOUR loops.lua)
+                name = 'Runner', -- NAME OF THE GRADE
+                payment = 650, -- PAYMENT FOR THIS GRADE ( EVERY 30 MINS OR ACCORDING TO YOUR loops.lua)
             },
             ['1'] = {
                 name = 'Cook',
