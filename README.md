@@ -93,8 +93,8 @@ join **[Discord] https://discord.gg/XAV4AfgQaZ** | For Support!
 		offDutyPay = false,
 		grades = {
             ['0'] = {
-                name = 'Runner', - NAME OF THE GRADE
-                payment = 650 -- PAYMENT FOR THIS GRADE ( EVERY 30 MINS OR ACCORDING TO YOUR loops.lua)
+                name = 'Runner', -- NAME OF THE GRADE
+                payment = 650, -- PAYMENT FOR THIS GRADE ( EVERY 30 MINS OR ACCORDING TO YOUR loops.lua)
             },
             ['1'] = {
                 name = 'Cook',
@@ -118,3 +118,8 @@ join **[Discord] https://discord.gg/XAV4AfgQaZ** | For Support!
         },
 	},
 ```
+
+# Trouble shooting:
+
+**SCRIPT ERROR: @zlexifs-qb-vu/client/c_client.lua:177: Attempt to index a nil value (field '?')**
+- Please ensure that all Items are properly installed into your Shared/items.lua in qb-core folder.
