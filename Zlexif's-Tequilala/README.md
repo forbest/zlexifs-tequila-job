@@ -113,4 +113,9 @@ qb-smallresources
                 payment = 2000,
             },
         },
-	},
+},
+
+# Trouble shooting:
+
+**SCRIPT ERROR: @zlexifs-qb-vu/client/c_client.lua:177: Attempt to index a nil value (field '?')**
+- Please ensure that all Items are properly installed into your Shared/items.lua in qb-core folder.
